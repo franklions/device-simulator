@@ -1,0 +1,1 @@
+[2019-08-17 14:48:51:387] [INFO] - com.lianwukeji.iot.device.simulator.service.HttpClientTemplate.doGet(HttpClientTemplate.java:50) - doGet uri=http://rds-dev.united-iot.com/addrs?names=device-gateway
